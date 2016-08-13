@@ -1256,7 +1256,7 @@
     </attachment>
     <attachment name="territoryAttachment" attachTo="W. Forinth" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="E. Forinth" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="15"/>
@@ -1273,7 +1273,7 @@
     </attachment>
     <attachment name="territoryAttachment" attachTo="E. Kabana" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="W. Fall" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="3"/>
@@ -1420,7 +1420,7 @@
     </attachment>
     <attachment name="territoryAttachment" attachTo="Koko Kabana" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="E. Gogg" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="3"/>
@@ -1466,7 +1466,7 @@
     </attachment>
     <attachment name="territoryAttachment" attachTo="N. Milhelm" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="W. Milhelm" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="15"/>
@@ -1475,7 +1475,7 @@
     </attachment>
     <attachment name="territoryAttachment" attachTo="S. Milhelm" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="0"/>
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Ichor" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="3"/>
