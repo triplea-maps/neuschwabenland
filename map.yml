@@ -1,0 +1,6 @@
+map_name: neuschwabenland
+games:
+- {game_name: Neuschwabenland FFA, file_name: Neuschwabenland_FFA.xml}
+- {game_name: Neuschwabenland, file_name: Neuschwabenland.xml}
+- {game_name: Neuschwabenland North vs South, file_name: Neuschwabenland_north_vs_south.xml}
+- {game_name: Neusch. DH's Ultimate FFA, file_name: Neuschwab_Naval_Ed.xml}
